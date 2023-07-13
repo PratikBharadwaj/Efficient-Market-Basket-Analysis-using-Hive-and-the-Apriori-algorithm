@@ -1,5 +1,5 @@
 # Market-basket-analysis-using-hive
-Here we are trying to perform real time market basket analysis using hive on dynamic updating data
+Here we are performing real time market basket analysis using hive on dynamic updating data
 
 ** THIS DIRECTORY HAS CODE WITH AND WITHOUT HIVE AND HAS DATASET ** 
 
