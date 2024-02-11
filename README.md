@@ -1,4 +1,4 @@
-# Market Basket Analysis on Dynamic Database using Hive
+# Efficient Market Basket Analysis using Hive and the Apriori algorithm
 Here we are performing real time market basket analysis using hive on dynamic updating data
 
 ** THIS DIRECTORY HAS CODE WITH AND WITHOUT HIVE AND HAS DATASET ** 
